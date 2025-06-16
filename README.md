@@ -184,9 +184,7 @@ If you use this work in your research, please cite:
 - 🔬 Researcher in unified field theories
 - 🧮 Pioneer in physics-mathematics unification
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Acknowledgments
 
